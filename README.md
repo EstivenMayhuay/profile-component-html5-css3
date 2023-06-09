@@ -1,3 +1,3 @@
 ## **Views**
 
-<img src="/images/view_main.png">
+<img src="/img/unnamed.gif">
